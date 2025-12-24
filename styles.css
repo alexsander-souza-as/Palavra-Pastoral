@@ -119,6 +119,8 @@ body {
     background-color: #f2f2f2;
     transition: background-color 0.3s;
     transition: all 300ms ease-in-out;
+    text-align: justify;
+    line-height: normal;
 
 }
 
